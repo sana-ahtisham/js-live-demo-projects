@@ -1,0 +1,172 @@
+[
+    {
+      "name": "Expanding Cards",
+      "description": "Created a series of cards that expand when clicked, revealing additional content or imagery.",
+      "image": "01",
+      "liveLink": "01.Expanding-Cards/index.html",
+      "codeLink": "01.Expanding-Cards"
+    },
+    {
+      "name": "User Information Saver",
+      "description": "A web app to create, edit, and save user information with dynamic card displays.",
+      "image": "02",
+      "liveLink": "02.User-Information-Saver/index.html",
+      "codeLink": "02.User-Information-Saver"
+    },
+    {
+      "name": "Hidden Search Widget",
+      "description": "Designed a search bar that appears when a search icon is clicked and disappears when not in use.",
+      "image": "03",
+      "liveLink": "03.Hidden-Search-Widget/index.html",
+      "codeLink": "03.Hidden-Search-Widget"
+    },
+    {
+      "name": "Blurry Image Loading",
+      "description": "Show an image that starts blurry and gradually becomes sharp as a loading percentage increases.",
+      "image": "04",
+      "liveLink": "04.Blurry-Image-Loading/index.html",
+      "codeLink": "04.Blurry-Image-Loading"
+    },
+    {
+      "name": "Scroll Animation",
+      "description":"Use JavaScript to detect scroll position and trigger CSS animations on scroll.",
+      "image": "05",
+      "liveLink": "05.Scroll-Animation/index.html",
+      "codeLink": "05.Scroll-Animation"
+    },
+    {
+      "name": "Split Landing Page",
+      "description":"Design a landing page split in two halves. When users hover over either side, it expands.",
+      "image": "06",
+      "liveLink": "06.Split-Landing-Page/index.html",
+      "codeLink": "06.Split-Landing-Page"
+    },
+    {
+      "name": "Login Page with Wave Form",
+      "description":"Design a landing page split in two halves. When users hover over either side, it expands.",
+      "image": "07",
+      "liveLink": "07.Login-Page-Wave-Form/index.html",
+      "codeLink": "07.Login-Page-Wave-Form"
+    },
+    {
+      "name": "Sound Board",
+      "description":"a grid of buttons that play different sounds when clicked. ",
+      "image": "08",
+      "liveLink": "08.Sound-Board/index.html",
+      "codeLink": "08.Sound-Board"
+    },
+    {
+      "name": "Progress Steps",
+      "description":"Display a visual representation of progress with steps. As users click through,the steps progres",
+      "image": "09",
+      "liveLink": "09.Progress-Steps/index.html",
+      "codeLink": "09.Progress-Steps"
+    },
+    {
+      "name": "Random Dad Joke Generator",
+      "description":"Fetch a random joke from an API and display it to the user",
+      "image": "10",
+      "liveLink": "10.Random-Dad-joke-Generator/index.html",
+      "codeLink": "10.Random-Dad-joke-Generator"
+    },
+    {
+      "name": "Event KeyCodes",
+      "description":"Used JavaScript event listeners to capture and display key press events.",
+      "image": "11",
+      "liveLink": "11.Event-Keycodes/index.html",
+      "codeLink": "11.Event-Keycodes"
+    },
+    {
+      "name": "FAQ Collapse",
+      "description" :"Create an FAQ with toggleable answers using JavaScript to show or hide content.",
+      "image": "12",
+      "liveLink": "12.FAQ-Collapse/index.html",
+      "codeLink": "12.FAQ-Collapse"
+    },
+    {
+      "name": "Random Choice Picker",
+      "description" :"Let users input choices,Used JS to randomly pick and display one when a button is pressed.",
+      "image": "13",
+      "liveLink": "13.Random-Choice-Picker/index.html",
+      "codeLink": "13.Random-Choice"
+    },
+    {
+      "name": "Increment Counter",
+      "description" :"Counters that increment from 0 to display my GitHub stats dynamically using JavaScript.",
+      "image": "14",
+      "liveLink": "14.Increment-Counter/index.html",
+      "codeLink": "14.Increment-Counter"
+    },
+    {
+      "name": "Drink Water Tracker", 
+      "description" :"Create a daily water tracker where clicking glasses fills them up and shows progress visually",
+      "image": "15",
+      "liveLink": "15.Drink-Water-Tracker/index.html",
+      "codeLink": "15.Drink-Water-Tracker"
+    },
+    {
+      "name": "Button Ripple Effect", 
+      "description": "Add a ripple effect to buttons using CSS animations and JavaScript for click detection.",
+      "image": "16",
+      "liveLink": "16.Button-Ripple-Effect/index.html",
+      "codeLink": "16.Button-Ripple-Effect"
+    },
+    {
+      "name": "Double Click Heart", 
+      "description": "When users double-click on an image, trigger a heart animation effect.",
+      "image": "17",
+      "liveLink": "17.Double-Click-Heart/index.html",
+      "codeLink": "17.Double-Click-Heart"
+    },
+    {
+      "name": "Typing Text Effect", 
+      "description": "Create a typing animation where text appears as if being typed out, using JavaScript intervals.",
+      "image": "18",
+      "liveLink": "18.Auto-Text-Effect/index.html",
+      "codeLink": "18.Auto-Text-Effect"
+    },
+    {
+      "name": "Password Strength Checker" ,
+      "description": "Evaluate password strength and change background color accordingly as users type.",
+      "image": "19",
+      "liveLink": "19.Password-Strength-Background/index.html",
+      "codeLink": "19.Password-Strength-Background"
+    },
+    {
+      "name": "Sticky Navbar" ,
+      "description":"Make a navbar that sticks to the top of the page when users scroll past a certain point.",
+      "image": "20",
+      "liveLink": "20.Sticky-Navbar/index.html",
+      "codeLink": "20.Sticky-Navbar"
+    },
+    {
+    "name": "Toast Notification",
+    "description": "Show a small notification that pops up and disappears after a set time.",
+    "image": "21",
+    "liveLink": "21.Toast-Notification/index.html",
+    "codeLink": "21.Toast-Notification"
+   },
+    {
+    "name": "Simple Timer",
+    "description": "Build a simple countdown timer. Handle time calculations and display updates using JS intervals.",
+    "image": "22",
+    "liveLink": "22.One-Min-Timer/index.html",
+    "codeLink": "22.One-Min-Timer"
+    },
+    {
+    "name": "Double Vertical Slider",
+    "description": "Vertically sliding gallery with simultaneous image movement.",
+    "image": "23",
+    "liveLink": "23.Double-Vertical-Slider/index.html",
+    "codeLink": "23.Double-Vertical-Slider"
+    },
+    {
+    "name": "Developer Life Balance",
+    "description": "Users can only pick two from three options.Used form selections for managing and Logic with JS.",
+    "image": "24",
+    "liveLink": "24.Two-Options-Only/index.html",
+    "codeLink": "24.Two-Options-Only"
+    }
+  
+  
+  ]
